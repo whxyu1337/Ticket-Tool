@@ -10,11 +10,11 @@
 
 ### Requirements
  - Node `12.x+`
- - `discord.js` npm
- - `discord-buttons ^3.1.1` npm
- - `st.db` npm
- - `randomstring` npm
- - `express` np
+ - `discord.js`
+ - `discord-buttons ^3.1.1`
+ - `st.db`
+ - `randomstring`
+ - `express`
 
 # If you like the project, don't forget to give a star to it 🌟
 
